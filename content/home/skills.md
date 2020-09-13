@@ -20,17 +20,17 @@ subtitle = ""
   name = "Mathematics"
   description = ""
   
+ [[feature]]
+  icon = "lightbulb"
+  icon_pack = "fas"
+  name = "Lifelong Learner"
+  description = "" 
+  
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
   name = "Data Science & Anayltics"
-  description = ""  
-  
-[[feature]]
-  icon = "lightbulb"
-  icon_pack = "fas"
-  name = "Lifelong Learner"
-  description = ""  
+  description = ""   
 
 # Uncomment to use emoji icons.
 # [[feature]]
