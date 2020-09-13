@@ -3,8 +3,10 @@ title: McKayla Hagerty
 role: Master's Student
 avatar_filename: dsc07894.jpg
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: Old Dominion University
+    url: https://www.odu.edu/
+  - name: Beach FC
+    url: https://www.beachfc.com
 superuser: true
 authors:
   - admin
@@ -15,18 +17,12 @@ interests:
   - Technology-Enhanced Learning
   - Distributed Systems
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: "#contact"
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/McKaylaHagerty
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/mckayla-hagerty-25a8081a3/
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -35,9 +31,9 @@ education:
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BS in Mathematics
+      institution: "Old Dominion University "
+      year: 2020
 email: ""
 user_groups:
   - Researchers
