@@ -34,10 +34,9 @@ education:
     - course: BS in Mathematics
       institution: "Old Dominion University "
       year: 2020
-email: ""
+email: mhage001@odu.edu
 user_groups:
-  - Researchers
-  - Visitors
+  - ""
 ---
 MCKAYLA SAMPLE
 
