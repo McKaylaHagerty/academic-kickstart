@@ -18,12 +18,6 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Mathematics"
-  description = ""
-  
- [[feature]]
-  icon = "lightbulb"
-  icon_pack = "fas"
-  name = "Lifelong Learner"
   description = "" 
   
 [[feature]]
@@ -31,6 +25,12 @@ subtitle = ""
   icon_pack = "fas"
   name = "Data Science & Anayltics"
   description = ""   
+  
+[[feature]]
+  icon = "lightbulb"
+  icon_pack = "fas"
+  name = "Lifelong Learner"
+  description = "" 
 
 # Uncomment to use emoji icons.
 # [[feature]]
