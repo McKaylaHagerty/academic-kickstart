@@ -26,14 +26,11 @@ social:
     link: https://www.linkedin.com/in/mckayla-hagerty-25a8081a3/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BS in Mathematics
-      institution: "Old Dominion University "
+    - course: "Data Science & Analytics (MS) - Concentration: Business Intelligence  "
+      institution: Old Dominion University
+      year: 2021
+    - course: "Computational & Applied Mathematics (BS) - Minor: Marketing "
+      institution: Old Dominion University
       year: 2020
 email: mhage001@odu.edu
 user_groups:
