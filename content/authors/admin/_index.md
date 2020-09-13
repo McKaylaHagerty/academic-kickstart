@@ -13,6 +13,7 @@ authors:
 bio: My research interests include Machine Learning, Technology-Enhanced
   Learning, and Distributed Systems.
 interests:
+  - Big Data Analytics
   - Machine Learning
   - Technology-Enhanced Learning
   - Distributed Systems
@@ -38,6 +39,6 @@ email: mhage001@odu.edu
 user_groups:
   - ""
 ---
-MCKAYLA SAMPLE
+I am a highly motivated, detail-oriented, self-starter constantly seeking ways to apply and expand my education and growing knowledge of mathematics and data science. I recently earned my bachelor's degree in Applied Mathematics with a marketing minor. Throughout my undergraduate career, I developed advanced logic and problem-solving skills to tackle a wide variety of challenges and discovered a fascination for big data analytics and technology-enhanced learning. This lead me to continue my education at Old Dominion University by pursuing my master's degree in Data Science and Analytics. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I have worked in a variety of individual and group-oriented positions within various industries including youth sports, marketing, nonprofits, and education. This diverse background has allowed me to prove my dedication and go-getter nature while preparing me to be an effective leader and problem solver in all real-world situations.
