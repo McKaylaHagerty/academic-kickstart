@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "calculator"
+  icon = "chart-line"
   icon_pack = "fas"
   name = "Mathematics"
   description = ""
@@ -27,13 +27,7 @@ subtitle = ""
   description = ""  
   
 [[feature]]
-  icon = "bullhorn"
-  icon_pack = "fas"
-  name = "Marketing"
-  description = ""
-  
-[[feature]]
-  icon = "code-branch"
+  icon = "lightbulb"
   icon_pack = "fas"
   name = "Lifelong Learner"
   description = ""  
