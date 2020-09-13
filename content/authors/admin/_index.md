@@ -1,7 +1,7 @@
 ---
 title: McKayla Hagerty
 role: Master's Student
-avatar_filename: dsc07896.jpg
+avatar_filename: dsc07894.jpg
 organizations:
   - name: Old Dominion University
     url: https://www.odu.edu/
